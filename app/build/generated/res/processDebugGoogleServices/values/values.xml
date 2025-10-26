@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">1079497155473</string>
+    <string name="google_api_key" translatable="false">AIzaSyAUQszr5Hf0SXIgiAjGLu07xQkE1YnLpfM</string>
+    <string name="google_app_id" translatable="false">1:1079497155473:android:25ad9815829ec157e67030</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAUQszr5Hf0SXIgiAjGLu07xQkE1YnLpfM</string>
+    <string name="google_storage_bucket" translatable="false">instagram-project-272.firebasestorage.app</string>
+    <string name="project_id" translatable="false">instagram-project-272</string>
+</resources>

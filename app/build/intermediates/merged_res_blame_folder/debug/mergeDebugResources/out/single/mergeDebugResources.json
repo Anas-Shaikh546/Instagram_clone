@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\mipmap-mdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\drawable_button_border_grey.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\drawable\\button_border_grey.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\layout_activity_otpverification.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\layout\\activity_otpverification.xml"
+    },
+    {
+        "merged": "com.example.instagram_project.app-debug-37:/layout_fragment_profile.xml.flat",
+        "source": "com.example.instagram_project.app-main-39:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\drawable_ic_placeholder.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\drawable\\ic_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\mipmap-hdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\layout_activity_test_firebase.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\layout\\activity_test_firebase.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\drawable_ic_search_black_24dp.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\drawable\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\layout_item_post.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\layout\\item_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\drawable_ic_like_filled.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\drawable\\ic_like_filled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\drawable_ic_like_empty.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\drawable\\ic_like_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\mipmap-hdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\mipmap-mdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\drawable_grid_on.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\drawable\\grid_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\mipmap-xxxhdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\drawable_button_solid.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\drawable\\button_solid.xml"
+    },
+    {
+        "merged": "com.example.instagram_project.app-debug-37:/layout_activity_login.xml.flat",
+        "source": "com.example.instagram_project.app-main-39:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\color_bottom_nav_color_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\color\\bottom_nav_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\drawable_ic_comment.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\drawable\\ic_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\mipmap-xxhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\mipmap-xhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\layout_activity_comments.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\layout\\activity_comments.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\mipmap-xxxhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\mipmap-xhdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\mipmap-xhdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\drawable_ic_add_box_black_24dp.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\drawable\\ic_add_box_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\layout_activity_create_post.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\layout\\activity_create_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\mipmap-xxhdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\mipmap-xxhdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\drawable_button_border.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\drawable\\button_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\drawable_keyboard_arrow_down.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\drawable\\keyboard_arrow_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\drawable_arrow_back.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\drawable\\arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\drawable_edittext_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\drawable\\edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\drawable_gradient_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\drawable\\gradient_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\drawable_circle_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\drawable\\circle_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\layout_item_comment.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\layout\\item_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-debug-37:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.13\\com.example.instagram_project.app-main-39:\\xml\\backup_rules.xml"
+    }
+]
